@@ -1,7 +1,13 @@
 if condition
-do
-statement
 then
+statement
 else
 statement
 fi
+
+#while loop
+
+if condition
+do
+statement
+done
