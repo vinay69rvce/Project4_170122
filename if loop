@@ -2,3 +2,6 @@ if condition
 do
 statement
 then
+else
+statement
+fi
